@@ -1,0 +1,15 @@
+F:\Udemy\C#\Proyecto01\Proyecto01\bin\Debug\net6.0\Proyecto01.exe
+F:\Udemy\C#\Proyecto01\Proyecto01\bin\Debug\net6.0\Proyecto01.deps.json
+F:\Udemy\C#\Proyecto01\Proyecto01\bin\Debug\net6.0\Proyecto01.runtimeconfig.json
+F:\Udemy\C#\Proyecto01\Proyecto01\bin\Debug\net6.0\Proyecto01.dll
+F:\Udemy\C#\Proyecto01\Proyecto01\bin\Debug\net6.0\Proyecto01.pdb
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\Proyecto01.csproj.AssemblyReference.cache
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\Proyecto01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\Proyecto01.AssemblyInfoInputs.cache
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\Proyecto01.AssemblyInfo.cs
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\Proyecto01.csproj.CoreCompileInputs.cache
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\Proyecto01.dll
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\refint\Proyecto01.dll
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\Proyecto01.pdb
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\Proyecto01.genruntimeconfig.cache
+F:\Udemy\C#\Proyecto01\Proyecto01\obj\Debug\net6.0\ref\Proyecto01.dll

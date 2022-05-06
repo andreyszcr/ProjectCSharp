@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "CapaDatos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CapaDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapaDatos.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CapaDatos/1.0.0": {
+      "type": "project",
+      "path": "../CapaDatos/CapaDatos.csproj",
+      "msbuildProject": "../CapaDatos/CapaDatos.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "CapaDatos >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Andrey\\.nuget\\packages\\": {},
@@ -41,7 +59,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Udemy\\C#\\Proyecto01\\CapaDatos\\CapaDatos.csproj": {
+              "projectPath": "F:\\Udemy\\C#\\Proyecto01\\CapaDatos\\CapaDatos.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
